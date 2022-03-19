@@ -13,7 +13,7 @@ This is header 3
 3. third item
 
 # unordered list
-- first 
+- first item
 - second
 - third
  
